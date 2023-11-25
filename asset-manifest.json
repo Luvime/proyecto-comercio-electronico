@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9cbd9260.chunk.css",
+    "main.js": "/static/js/main.92d91946.chunk.js",
+    "main.js.map": "/static/js/main.92d91946.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a7157fe9.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a7157fe9.js.map",
+    "static/js/2.c633ec36.chunk.js": "/static/js/2.c633ec36.chunk.js",
+    "static/js/2.c633ec36.chunk.js.map": "/static/js/2.c633ec36.chunk.js.map",
+    "static/js/3.296c640f.chunk.js": "/static/js/3.296c640f.chunk.js",
+    "static/js/3.296c640f.chunk.js.map": "/static/js/3.296c640f.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.9cbd9260.chunk.css.map": "/static/css/main.9cbd9260.chunk.css.map",
+    "static/js/2.c633ec36.chunk.js.LICENSE.txt": "/static/js/2.c633ec36.chunk.js.LICENSE.txt",
+    "static/media/guitarlogo.850639dd.svg": "/static/media/guitarlogo.850639dd.svg",
+    "static/media/musician-1284394_1920.5508b05d.jpg": "/static/media/musician-1284394_1920.5508b05d.jpg",
+    "static/media/musicians-690591_1920.d014f5f1.jpg": "/static/media/musicians-690591_1920.d014f5f1.jpg",
+    "static/media/pexels-karolina-grabowska-4472061.2dbee7f4.jpg": "/static/media/pexels-karolina-grabowska-4472061.2dbee7f4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a7157fe9.js",
+    "static/js/2.c633ec36.chunk.js",
+    "static/css/main.9cbd9260.chunk.css",
+    "static/js/main.92d91946.chunk.js"
+  ]
+}
