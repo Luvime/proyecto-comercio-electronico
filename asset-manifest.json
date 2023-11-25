@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.9cbd9260.chunk.css",
-    "main.js": "/static/js/main.1fb9aaf1.chunk.js",
-    "main.js.map": "/static/js/main.1fb9aaf1.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.a7157fe9.js",
-    "runtime-main.js.map": "/static/js/runtime-main.a7157fe9.js.map",
-    "static/js/2.c633ec36.chunk.js": "/static/js/2.c633ec36.chunk.js",
-    "static/js/2.c633ec36.chunk.js.map": "/static/js/2.c633ec36.chunk.js.map",
-    "static/js/3.296c640f.chunk.js": "/static/js/3.296c640f.chunk.js",
-    "static/js/3.296c640f.chunk.js.map": "/static/js/3.296c640f.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.9cbd9260.chunk.css.map": "/static/css/main.9cbd9260.chunk.css.map",
-    "static/js/2.c633ec36.chunk.js.LICENSE.txt": "/static/js/2.c633ec36.chunk.js.LICENSE.txt",
-    "static/media/guitarlogo.850639dd.svg": "/static/media/guitarlogo.850639dd.svg",
-    "static/media/musician-1284394_1920.5508b05d.jpg": "/static/media/musician-1284394_1920.5508b05d.jpg",
-    "static/media/musicians-690591_1920.d014f5f1.jpg": "/static/media/musicians-690591_1920.d014f5f1.jpg",
-    "static/media/pexels-karolina-grabowska-4472061.2dbee7f4.jpg": "/static/media/pexels-karolina-grabowska-4472061.2dbee7f4.jpg"
+    "main.css": "/proyecto-comercio-electronico/static/css/main.9cbd9260.chunk.css",
+    "main.js": "/proyecto-comercio-electronico/static/js/main.0adfed30.chunk.js",
+    "main.js.map": "/proyecto-comercio-electronico/static/js/main.0adfed30.chunk.js.map",
+    "runtime-main.js": "/proyecto-comercio-electronico/static/js/runtime-main.c76a51df.js",
+    "runtime-main.js.map": "/proyecto-comercio-electronico/static/js/runtime-main.c76a51df.js.map",
+    "static/js/2.c633ec36.chunk.js": "/proyecto-comercio-electronico/static/js/2.c633ec36.chunk.js",
+    "static/js/2.c633ec36.chunk.js.map": "/proyecto-comercio-electronico/static/js/2.c633ec36.chunk.js.map",
+    "static/js/3.296c640f.chunk.js": "/proyecto-comercio-electronico/static/js/3.296c640f.chunk.js",
+    "static/js/3.296c640f.chunk.js.map": "/proyecto-comercio-electronico/static/js/3.296c640f.chunk.js.map",
+    "index.html": "/proyecto-comercio-electronico/index.html",
+    "static/css/main.9cbd9260.chunk.css.map": "/proyecto-comercio-electronico/static/css/main.9cbd9260.chunk.css.map",
+    "static/js/2.c633ec36.chunk.js.LICENSE.txt": "/proyecto-comercio-electronico/static/js/2.c633ec36.chunk.js.LICENSE.txt",
+    "static/media/guitarlogo.850639dd.svg": "/proyecto-comercio-electronico/static/media/guitarlogo.850639dd.svg",
+    "static/media/musician-1284394_1920.5508b05d.jpg": "/proyecto-comercio-electronico/static/media/musician-1284394_1920.5508b05d.jpg",
+    "static/media/musicians-690591_1920.d014f5f1.jpg": "/proyecto-comercio-electronico/static/media/musicians-690591_1920.d014f5f1.jpg",
+    "static/media/pexels-karolina-grabowska-4472061.2dbee7f4.jpg": "/proyecto-comercio-electronico/static/media/pexels-karolina-grabowska-4472061.2dbee7f4.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a7157fe9.js",
+    "static/js/runtime-main.c76a51df.js",
     "static/js/2.c633ec36.chunk.js",
     "static/css/main.9cbd9260.chunk.css",
-    "static/js/main.1fb9aaf1.chunk.js"
+    "static/js/main.0adfed30.chunk.js"
   ]
 }
