@@ -56,7 +56,9 @@ function App() {
               <PublicRoute exact path="/proyecto-comercio-electronico/:productId" component={Product} />
 
               {/* RUTA BASE */}
-              <PublicRoute exact path="/proyecto-comercio-electronico/" component={Main} />
+              <PublicRoute exact path="/proyecto-comercio-electronico
+              
+              /" component={Main} />
 
             </Switch>
 

@@ -1,7 +1,7 @@
 
 import { Link } from 'react-router-dom'
 import BackgroundJumbotron from './../assets/musicians-690591_1920.jpg'
-import ListGuitars from './ListGuitars'
+import ListGuitars from './Routes'
 
 export default function Main() {
   return (

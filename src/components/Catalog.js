@@ -1,5 +1,5 @@
 import React from 'react'
-import ListGuitars from './ListGuitars'
+import ListGuitars from './Routes'
 
 export default function Catalog() {
     return (

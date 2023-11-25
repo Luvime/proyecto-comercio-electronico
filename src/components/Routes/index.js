@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom'
 
 import Guitar from './../../assets/pexels-karolina-grabowska-4472061.jpg'
 
-import ProductContext from './../../context/Product/ProductContext'
+import ProductContext from '../../context/Product/ProductContext'
 
 
 export default function ListGuitars(props) {
