@@ -1,6 +1,6 @@
 // craco.config.js
 module.exports = {
-    base: '/proyecto-comercio-electronico',
+    base: '/proyecto-comercio-electronico/',
     style: {
       postcss: {
         plugins: [
