@@ -40,23 +40,23 @@ function App() {
             <Switch>
 
               {/* RUTAS PRIVADAS */}
-              <PrivateRoute exact path="/perfil" component={ Profile } />          
+              <PrivateRoute exact path="/proyecto-comercio-electronico/perfil" component={ Profile } />          
 
               {/* RUTAS DE AUTENTICACIÓN */}
-              <AuthRoute exact path="/iniciar-sesion" component={Login} />
-              <AuthRoute exact path="/crear-cuenta" component={Register} />
+              <AuthRoute exact path="/proyecto-comercio-electronico/iniciar-sesion" component={Login} />
+              <AuthRoute exact path="/proyecto-comercio-electronico/crear-cuenta" component={Register} />
 
               {/* RUTAS ESTÁTICAS */}
-              <PublicRoute exact path="/catalogo" component={Catalog} />
+              <PublicRoute exact path="/proyecto-comercio-electronico/catalogo" component={Catalog} />
 
               {/* RUTAS ESTÁTICAS */}
-              <PublicRoute exact path="/about" component={About} />
+              <PublicRoute exact path="/proyecto-comercio-electronico/about" component={About} />
 
               {/* RUTAS DINÁMICAS */}
-              <PublicRoute exact path="/:productId" component={Product} />
+              <PublicRoute exact path="/proyecto-comercio-electronico/:productId" component={Product} />
 
               {/* RUTA BASE */}
-              <PublicRoute exact path="/" component={Main} />
+              <PublicRoute exact path="/proyecto-comercio-electronico/" component={Main} />
 
             </Switch>
 
