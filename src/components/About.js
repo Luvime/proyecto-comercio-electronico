@@ -38,17 +38,20 @@ export const About = () => {
 
 
       <h1 className="text-center text-4xl font-extrabold tracking-tight sm:text-5xl lg:text-6xl">Nosotros</h1>
-      <div className='contenedor'>
-        <div>
+
+      <section id="sobremi">
+        <div class="contenedor-foto">
           <img className='bannernosotros' width={500} height={800} src={nosotros}></img>
-
-          <div>
-            <p>In suscipit tincidunt justo, quis faucibus neque pulvinar in. Maecenas lacus libero, imperdiet id urna nec, fringilla euismod sem. In aliquet molestie sapien, aliquam interdum ipsum mollis et. Suspendisse interdum dictum pretium. Vivamus vel hendrerit est. Maecenas non accumsan enim. Aliquam faucibus nisl non erat mattis facilisis. Integer suscipit lobortis lectus id sollicitudin. </p>
-
-            <p>Suspendisse sollicitudin faucibus maximus. Ut risus lorem, commodo et tortor vehicula, semper consequat nisi. Donec pretium sit amet purus eget vehicula. Nulla non malesuada eros. Duis vehicula volutpat nunc, nec consequat dui viverra sollicitudin. Sed vel augue cursus, hendrerit nisi ut, commodo nibh. Vestibulum ante ipsum primis in.</p>
-          </div>
         </div>
-      </div>
+        <div class="sobremi">
+          <p class="titulo-seccion">Sobre Mi</p>
+          <h2>Hola, soy <span>Luis Villegas</span></h2>
+          <h3>Desarrollador Web</h3>
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+            Soluta blanditiis ad iusto ea perspiciatis asperiores fugit nobis illo.</p>
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione laudantium</p>
+        </div>
+      </section>
     </>
   )
 }
