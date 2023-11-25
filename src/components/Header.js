@@ -105,7 +105,7 @@ export default function Header() {
                   </svg>
                 </button>
 
-                <Link to="/">
+                <Link to="/proyecto-comercio-electronico/">
                   <div className="ml-4 mr-4 flex lg:ml-0">
 
                     <img className="h-8 w-auto" src={GuitarLogo} alt="Guitar LATAM" />
