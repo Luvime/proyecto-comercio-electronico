@@ -27,7 +27,7 @@ export default function PrivateRoute({ component: Component, ...props }) {
             return authStatus ? 
                 (<Component {...props} />)
                 :
-                (<Redirect to="/proyecto-comercio-electronico/iniciar-sesion" />)
+                (<Redirect to="/iniciar-sesion" />)
             }
         } />
     )
