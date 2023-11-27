@@ -37,8 +37,6 @@ export const About = () => {
       </div>
 
 
-      <h1 className="text-center text-4xl font-extrabold tracking-tight sm:text-5xl lg:text-6xl">Nosotros</h1>
-
       <section id="sobremi">
         <div class="contenedor-foto">
           <img className='bannernosotros' width={500} height={800} src={nosotros}></img>
