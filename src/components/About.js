@@ -52,7 +52,7 @@ export const About = () => {
             Quos nemo dolores unde, dolorum labore vitae.</p>
 
           <div className='sobremi'>
-            <p class="bienvenida">Nada es mas hermoso que una guitarra. Excepto, tu.</p>
+            <h3 class="bienvenida">Nada es mas hermoso que una guitarra. Excepto, tu.</h3>
           </div>
         </div>
       </section>
