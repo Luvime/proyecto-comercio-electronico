@@ -43,7 +43,7 @@ export const About = () => {
         </div>
         <div class="sobremi">
           <p class="titulo-seccion">NOSOTROS</p>
-          <h2>Solo voy donde me lleva <span>La Quitarra.</span></h2>
+          <h2>Solo voy donde me lleva, <span>La Guitarra.</span></h2>
           <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
             Sed mollitia quas hic ex iure, voluptatum debitis.
             Iusto officiis, blanditiis eligendi modi error omnis! Quos nemo dolores unde, dolorum labore vitae.</p>
@@ -51,7 +51,9 @@ export const About = () => {
             Sed mollitia quas hic ex iure, voluptatum debitis. Iusto officiis, blanditiis eligendi modi error omnis!
             Quos nemo dolores unde, dolorum labore vitae.</p>
 
-          <p class="bienvenida">Nada es mas hermoso que una guitarra. Excepto, tu.</p>
+          <div className='sobremi'>
+            <p class="bienvenida">Nada es mas hermoso que una guitarra. Excepto, tu.</p>
+          </div>
         </div>
       </section>
     </>
