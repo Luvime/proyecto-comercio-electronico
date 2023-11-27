@@ -42,12 +42,16 @@ export const About = () => {
           <img className='bannernosotros' width={500} height={800} src={nosotros}></img>
         </div>
         <div class="sobremi">
-          <p class="titulo-seccion">Sobre Mi</p>
-          <h2>Hola, soy <span>Luis Villegas</span></h2>
-          <h3>Desarrollador Web</h3>
+          <p class="titulo-seccion">NOSOTROS</p>
+          <h2>Solo voy donde me lleva <span>La Quitarra.</span></h2>
           <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-            Soluta blanditiis ad iusto ea perspiciatis asperiores fugit nobis illo.</p>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione laudantium</p>
+            Sed mollitia quas hic ex iure, voluptatum debitis.
+            Iusto officiis, blanditiis eligendi modi error omnis! Quos nemo dolores unde, dolorum labore vitae.</p>
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+            Sed mollitia quas hic ex iure, voluptatum debitis. Iusto officiis, blanditiis eligendi modi error omnis!
+            Quos nemo dolores unde, dolorum labore vitae.</p>
+
+          <p class="bienvenida">Nada es mas hermoso que una guitarra. Excepto, tu.</p>
         </div>
       </section>
     </>
