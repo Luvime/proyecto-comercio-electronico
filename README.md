@@ -1,4 +1,4 @@
-# Proyecto5UDD
+# Proyecto: Comercio Electronico
 Pagina web de ventas de guitarras, cuenta con carrito de compras, perfil, simulacion de pagos y catalogo de productos.
 como base de datos usé MongoDB y para los pagos Mercado Pago
 
@@ -15,4 +15,5 @@ git clone
 npm install
 npm run start
 
+# Prototipado Simple
 <img src="./public/proyecto5.png">
